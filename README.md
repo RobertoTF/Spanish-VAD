@@ -6,7 +6,7 @@ Desarrollo de un algoritmo de detección de voz en castellano con TinyML
 
 Adaptado de https://github.com/tensorflow/tflite-micro-arduino-examples
 
-Immplementación de un algoritmo VAD en castellano basado en la detección
+Implementación de un algoritmo VAD en castellano basado en la detección
 de fonemas vocálicos por medio de una red neuronal y la inferencia de
 presencia de voz aprovechando las caraterísticas fonéticas del castellano.
 
